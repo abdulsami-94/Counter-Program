@@ -1,0 +1,40 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#countLable {
+    display: block;
+    font-size: 10rem;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.buttons {
+    padding: 20px;
+    
+}
+
+.button {
+    border: none ;
+    border-radius: 12px;
+    padding: 10px;
+    font-size: larger;
+}
+
+.button1:hover{
+    background-color: #ff4d4d;
+    color: rgb(255, 255, 255);
+}
+
+.button2:hover{
+    background-color: #444444;
+    color: rgb(255, 255, 255);
+
+}
+
+.button3:hover{
+    background-color: #00ff7f;
+    color: rgb(255, 255, 255);
+}
