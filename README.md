@@ -6,6 +6,11 @@ Perfect beginner project for learning JavaScript event handling and basic UI str
 
 ---
 
+⚠️ This project is now maintained in my Project Hub repository:
+https://github.com/abdulsami-94/Project-Hub
+
+---
+
 ## 🚀 **Features**
 
 * Dynamic counter that updates instantly
